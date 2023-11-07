@@ -1,0 +1,51 @@
+ID Platform Genre Title Purchase Price  Purchase Date
+1 PlayStation RPG Game_9_1 59 2022-07-09
+2 PC Sports Game_2_2 58 2015-09-07
+3 Xbox Sports Game_5_3 36 2021-11-14
+4 Nintendo Switch RPG Game_8_4 74 2017-02-21
+5 Xbox Sports Game_10_5 64 2017-07-17
+6 Xbox Simulation Game_1_6 35 2019-08-13
+7 PC Sports Game_5_7 66 2017-06-16
+8 Xbox Simulation Game_4_8 61 2022-05-08
+9 PlayStation RPG Game_6_9 31 2019-02-09
+10 Xbox Sports Game_4_10 43 2016-05-16
+11 Nintendo Switch RPG Game_8_11 36 2018-10-10
+12 Nintendo Switch Simulation Game_5_12 79 2021-07-03
+13 Xbox Sports Game_8_13 24 2021-09-26
+14 PlayStation Action Game_8_14 29 2017-11-22
+15 Xbox Simulation Game_8_15 51 2020-01-13
+16 PC Simulation Game_9_16 71 2018-08-29
+17 PlayStation Action Game_3_17 76 2016-03-16
+18 Xbox RPG Game_10_18 56 2017-03-17
+19 PC Action Game_10_19 38 2021-06-20
+20 PC Action Game_3_20 62 2022-11-18
+21 PlayStation Simulation Game_2_21 74 2020-05-17
+22 Xbox Sports Game_7_22 59 2018-03-14
+23 Nintendo Switch Action Game_6_23 34 2015-06-04
+24 PlayStation Adventure Game_1_24 51 2019-02-13
+25 Nintendo Switch Simulation Game_9_25 52 2022-01-19
+26 Xbox RPG Game_1_26 63 2016-12-02
+27 PlayStation RPG Game_6_27 71 2015-06-02
+28 PlayStation Action Game_4_28 22 2016-03-13
+29 Nintendo Switch Action Game_8_29 54 2021-10-24
+30 Nintendo Switch Adventure Game_3_30 41 2021-08-11
+31 Xbox Action Game_2_31 23 2018-06-22
+32 Xbox Adventure Game_1_32 43 2015-03-07
+33 PlayStation Simulation Game_9_33 46 2018-05-31
+34 Nintendo Switch Adventure Game_6_34 33 2020-01-30
+35 Xbox Sports Game_5_35 35 2017-04-08
+36 Xbox Action Game_7_36 20 2017-12-01
+37 PC RPG Game_2_37 46 2017-09-26
+38 Nintendo Switch Sports Game_6_38 74 2016-02-18
+39 PlayStation Sports Game_10_39 44 2017-06-26
+40 Xbox Adventure Game_5_40 77 2019-03-01
+41 PC Simulation Game_5_41 58 2018-10-27
+42 PC RPG Game_6_42 64 2016-10-23
+43 Nintendo Switch Action Game_3_43 28 2018-12-27
+44 Nintendo Switch RPG Game_10_44 24 2022-05-03
+45 Nintendo Switch Action Game_5_45 37 2016-04-25
+46 Nintendo Switch Sports Game_7_46 57 2020-09-25
+47 Nintendo Switch Adventure Game_8_47 32 2020-01-03
+48 Nintendo Switch Action Game_5_48 66 2019-04-03
+49 PC RPG Game_4_49 75 2022-04-15
+50 Nintendo Switch Simulation Game_8_50 20 2015-12-15
